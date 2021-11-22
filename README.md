@@ -14,7 +14,7 @@
 
 ### 2. Premissas do ambiente
 
-* Utileza o script que esta na pasta _**vagrant-box**_  para criação da VMs. 
+* Utileza o script que esta na pasta _**vagrant**_  para criação da VMs. 
 * subir o jenkins server que esta na pasta _**jenkin-server**_  utilizando o docker-compose
 * Pode ser utilizado o minishift no virtualBox  [minishift](https://blog.4linux.com.br/minishift-openshift-origin-como-ambiente-de-desenvolvimento/)
 *  Elabore uma esteira utilizando o jenkins e pipeline com jenkinsfile para construção das aplicação
